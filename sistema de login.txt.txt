@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-digite seu email
-=======
-digite seu e-mail
->>>>>>> sistema-de-login
+sistema-de-login
 digite sua senha
+digite sua idade
+
